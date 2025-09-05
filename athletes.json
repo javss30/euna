@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1756593032973,
+    "username": "may",
+    "password": "$2b$10$azcfEGbTv99aAQegzGhkROLg/3vNqsrCMVM.46AiReKdSi8jbmbb2",
+    "name": "may macasero",
+    "age": "12",
+    "sport": "Basketball"
+  },
+  {
+    "id": 1756651226775,
+    "username": "gaile",
+    "password": "$2b$10$pPYO791LqwlCxcnnL0FGm.S5y32AFwjIA3.NN7Q0SathNG1vUsKfK",
+    "name": "gaile macasero",
+    "age": 24,
+    "sport": "Volleyball"
+  }
+]
